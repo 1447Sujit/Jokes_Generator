@@ -1,3 +1,4 @@
+// Javascript Code
 let get = document.getElementById("get")
 
 
